@@ -1,0 +1,9 @@
+h1{
+    text-align: center; 
+    border: dotted rgb(184, 110, 37, 0.467);
+    background-color:bisque;
+}
+div{
+    border: double rgb(184, 110, 37, 0.467);
+    background-color: beige;
+}

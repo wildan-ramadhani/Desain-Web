@@ -1,0 +1,14 @@
+.judul,
+.subjudul {
+    text-align: center;
+}
+table,
+th,
+tr,
+td{
+    border: 1px solid;
+}
+
+table {
+    width: 100%;
+}
